@@ -2,4 +2,4 @@ server thing text
 
 added another line of stuff
 
-addes some very important text too
+added some very important text
