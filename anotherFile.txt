@@ -1,3 +1,4 @@
 just some another file
 then putting some text on this line
 removed two lines to test master merge
+test remove this line after commit
