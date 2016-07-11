@@ -3,3 +3,4 @@ then putting some text on this line
 removed two lines to test master merge
 test remove this line after commit
 July 11 12:27
+dummy8 july11 2:32
